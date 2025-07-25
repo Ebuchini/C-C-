@@ -1,0 +1,10 @@
+Código em C++ sem compilação. 
+Orientação:
+
+1ª Compile o código no compilador que desejar
+2ª Crie um arquivo txt, com o nome de "palavras" (sem aspas) na mesma pasta do projeto em c++ (arquivo ccp) 
+Obs: caso utilizar o VS Studio, o arquivo txt "palavras" deve estar na pasta de saída do exe, ou seja, dentro da pasta output que é criada
+3ª execute o programa exe atraves do CMD ( para Windows, não use o terminal do windows, apenas o CMD)
+
+Boa diversão com o jogo da forca... Pode adicionar e remover as palavras do arquivo Txt conforme sua preferencia, basta seguir o padrão de como estao adcionado as palavras. 
+o programa irá ler, interpretar e escolher uma palavra aleatória do arquivo para voce jogar. LIBERADO PARA MODIFICAÇÕES
